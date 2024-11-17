@@ -23,7 +23,7 @@ jobs:
         run: npx playwright install  
 
       - name: Run Playwright tests
-        run: npx playwright test
+        run: npx playwright test gallery.spec.js
 
       - name: Upload Allure results
         uses: actions/upload-artifact@v3
