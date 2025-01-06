@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30017","Поиск","chromium","Mon Jan 06 01:00:54 GMT 2025","broken","Mon Jan 06 01:01:24 GMT 2025","Поиск","gallery.spec.js","",""
